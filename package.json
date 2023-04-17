@@ -1,0 +1,16 @@
+{
+  "name": "getrepoletters",
+  "version": "1.0.0",
+  "description": "A small exercise to retrieve all TS and JS files in a repo and count the letters on them.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Enzo de Villarreal",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "inquirer": "^9.1.5"
+  }
+}
